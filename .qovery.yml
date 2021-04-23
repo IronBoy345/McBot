@@ -1,0 +1,11 @@
+---
+application:
+  name: "mcbot"
+  project: "minecraft-bot"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-mcbot"
+  routes:
+  - application_name: "mcbot"
+    paths:
+    - "/*"
