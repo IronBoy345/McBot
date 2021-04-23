@@ -1,0 +1,11 @@
+---
+application:
+  name: "mcbotawesome"
+  project: "mcbot345"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-mcbotawesome"
+  routes:
+  - application_name: "mcbotawesome"
+    paths:
+    - "/*"
