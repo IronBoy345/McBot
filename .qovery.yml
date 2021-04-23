@@ -1,11 +1,11 @@
 ---
 application:
-  name: "mcbotawesome"
-  project: "mcbot345"
+  name: "mcbot"
+  project: "serverbot"
   organization: "QoveryCommunity"
 routers:
-- name: "main-mcbotawesome"
+- name: "main-mcbot"
   routes:
-  - application_name: "mcbotawesome"
+  - application_name: "mcbot"
     paths:
     - "/*"
