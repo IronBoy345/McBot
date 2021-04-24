@@ -1,7 +1,7 @@
 ---
 application:
   name: "mcbot"
-  project: "serverbot"
+  project: "minecraftbot3"
   organization: "QoveryCommunity"
 routers:
 - name: "main-mcbot"
